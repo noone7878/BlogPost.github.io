@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: LearnQuest
+description: Welcome to LearnQuest, a dedicated space where curiosity meets knowledge. Here, I delve into the latest discoveries, insights, and trends across a diverse range of topics, from environmental sustainability and climate change to technology and innovation. As a passionate learner and student, I am committed to exploring new frontiers and sharing in-depth analyses that go beyond the surface. Join me on this intellectual journey as we unravel complexities, uncover hidden truths, and expand our understanding of the world around us. Whether you're a fellow enthusiast or just starting your exploration, LearnQuest is your go-to resource for thought-provoking content and professional insights.
+github_username: noone7878
 
 # Email and twitter are optional:
 email:
